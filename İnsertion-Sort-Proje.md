@@ -1,5 +1,5 @@
-www.patika.dev-Sort.Projects
-www.patika.dev
+# www.patika.dev-Sort.Projects
+ www.patika.dev
 İnsertion-Sort.Project
 Proje 1
 [22,27,16,2,18,6] -> Insertion Sort
@@ -16,7 +16,9 @@ Best case: Aradığımız sayının dizinin en başında olması.
 2. aşama: [2,6,16,22,18,27] olmalı. Çünkü bu diziyi sıralamalıyız. Buyüzden 6 ile 2. elemanın yani 27 ile yerini değitirdim.
 3. aşama: [2,6,16,22,18,27] 16 doğru yerde karışmıyoruz.
 4. aşama: [2,6,16,18,22,27] 18 ile 4. eleman yani 22 ile yerlerini değiştirmeliyim.
+
 Big-O gösterimi: O(n^2)
+
 18 sayısı ortada olduğundan Average case kapsamına girer.
 
 Proje 2
